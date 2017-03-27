@@ -1,1 +1,1 @@
-# OOPExample-SimpleCalculator
+Example of oop using Python
